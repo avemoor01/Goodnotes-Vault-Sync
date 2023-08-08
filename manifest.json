@@ -1,0 +1,12 @@
+{
+    "id": "gn-vault-sync",
+    "name": "Goodnotes Vault Sync",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Sync, tag and interface with your Goodnotes directly from Obsidian using Google drive.",
+    "author": "Thalon",
+    "authorUrl": "https://obsidian.md",
+    "fundingUrl": "https://obsidian.md/pricing",
+    "isDesktopOnly": true,
+    "styles": "styles.css"
+}

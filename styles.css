@@ -1,0 +1,16 @@
+
+.small-button {
+    font-size: 12px; /* Adjust the font size as needed */
+    padding: 4px 6px; /* Adjust padding as needed */
+}
+
+.less-tall-button {
+    height: 20px; /* Adjust the height as needed */
+}
+
+.mod-cta {
+    margin-right: 8px; /* Add spacing to the right of buttons */
+}
+.mod-cta:last-child {
+    margin-right: 0; /* Remove spacing for the last button */
+}
